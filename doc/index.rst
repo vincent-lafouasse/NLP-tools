@@ -10,6 +10,10 @@ Welcome to NLP-Tools's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   modules
+
+.. mdinclude:: ../README.md
+
 
 
 Indices and tables
